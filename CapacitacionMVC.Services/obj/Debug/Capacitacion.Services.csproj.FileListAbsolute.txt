@@ -1,0 +1,16 @@
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\CapacitacionMVC.Services.dll.config
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\CapacitacionMVC.Services.dll
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\CapacitacionMVC.Services.pdb
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\CapacitacionMVC.Data.dll
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\CapacitacionMVC.Entities.dll
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\EntityFramework.dll
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\CapacitacionMVC.Data.pdb
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\CapacitacionMVC.Data.dll.config
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\CapacitacionMVC.Entities.pdb
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\EntityFramework.xml
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\obj\Debug\Capacitacion.Services.csprojResolveAssemblyReference.cache
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\obj\Debug\Capacitacion.Services.csproj.CoreCompileInputs.cache
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\obj\Debug\CapacitacionMVC.Services.dll
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Services\obj\Debug\CapacitacionMVC.Services.pdb

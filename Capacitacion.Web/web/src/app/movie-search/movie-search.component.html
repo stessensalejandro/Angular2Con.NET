@@ -1,0 +1,12 @@
+<div class="container p-0">
+  <div class="form-group">
+    <input class="form-control" #searchBox (keyup)="search(searchBox.value)" placeholder="Search movie!" autocomplete="off" />
+  </div>
+  <div class="form-group">
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let movie of movies$ | async">
+        <a href="">{{movie.name}}</a>
+      </li>
+    </ul>
+  </div>
+</div>

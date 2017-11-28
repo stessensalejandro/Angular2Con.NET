@@ -1,0 +1,6 @@
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Entities\bin\Debug\CapacitacionMVC.Entities.dll
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Entities\bin\Debug\CapacitacionMVC.Entities.pdb
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Entities\obj\Debug\Capacitacion.Entities.csprojResolveAssemblyReference.cache
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Entities\obj\Debug\Capacitacion.Entities.csproj.CoreCompileInputs.cache
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Entities\obj\Debug\CapacitacionMVC.Entities.dll
+C:\Users\stess\Source\Workspaces\Bootcamp2017\CapacitacionMVC.Entities\obj\Debug\CapacitacionMVC.Entities.pdb

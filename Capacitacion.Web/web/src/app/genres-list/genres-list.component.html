@@ -1,0 +1,23 @@
+<genres-add></genres-add>
+  
+  <div class="container">
+    <div class="card">
+      <div class="card-header">
+        List of genres
+      </div>
+      <div class="card-body">
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let genre of genres">
+            {{genre.name}}
+            <a href="/genres-list"   (click)="deleteGenre(genre)"><i class="material-icons md-18 red pull-right right">delete_forever</i></a>
+            <a href="/add-genre" [routerLink]="['/add-genre',genre.id]"><i class="material-icons md-18 blue pull-right">edit</i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+
+
+

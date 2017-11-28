@@ -1,0 +1,14 @@
+<td>
+  <figure class="figure">
+    <img src="{{movie.coverLink}}" class="figure-img img-rounded" />
+    <figcaption class="figure-caption">{{movie.name}}</figcaption>
+  </figure>
+</td>
+<td>{{movie.genre}}</td>
+<td>{{movie.releaseDate}}</td>
+<td>{{movie.runtime}}</td>
+<td>{{movie.plot}}</td>
+<td class="pr-0">
+  <a href="#" (click)="deleteMovie(movie)"><i class="material-icons md-18 red pull-right">delete_forever</i></a>
+  <a href="/add-movie" [routerLink]="['/add-movie',movie.id]"><i class="material-icons md-18 blue pull-right">edit</i></a>
+</td>

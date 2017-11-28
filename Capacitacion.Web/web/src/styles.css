@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+
+body {
+}
+
+.material-icons.red {
+  color: #d50000;
+}
+
+.material-icons.green {
+  color: #00c853;
+}
+
+.material-icons.blue {
+  color: #304ffe;
+}
+

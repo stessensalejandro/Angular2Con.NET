@@ -1,0 +1,20 @@
+<form *ngIf="genreForm" (ngSubmit)="onSubmit(genreForm)" [formGroup]="genreForm" novalidate>
+  <div class="container mt-4 mb-4">
+    <div class="card">
+      <div class="card-header">
+        Add genre
+      </div>
+      <div class="card-body">
+        <div class="form-group has-danger">
+          <label>
+            Name:
+            <input class="form-control form-control-danger" formControlName="name" placeholder="name" minlength="1" required />
+           
+          </label>
+        </div>
+        <button class="btn btn-default" type="submit" [disabled]="genreForm.pristine">Add</button>
+      </div>
+    </div>
+    <div *ngIf="successMessage">  ><strong>Added</strong></div>
+  </div>
+</form>

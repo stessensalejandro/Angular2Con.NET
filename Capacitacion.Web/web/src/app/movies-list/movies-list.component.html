@@ -1,0 +1,23 @@
+<div class="container">
+  <h1>Movies</h1>
+    <a class="btn btn-success mb-3" routerLink="/add-movie" routerLinkActive="active">Add Movie</a>
+
+  <movie-search></movie-search>
+  
+
+  <table class="table table-striped">
+    <thead class="thead thead-dark">
+      <tr>
+        <th>Movie</th>
+        <th>Genre</th>
+        <th class="pr-0 pl-0">Release Date</th>
+        <th>Runtime</th>
+        <th>Plot</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let movie of movies" movie-details [movie]="movie"></tr>
+    </tbody>
+  </table>
+</div>
